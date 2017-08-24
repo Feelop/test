@@ -1,0 +1,5 @@
+{
+    "require": {
+        "toplan/phpsms": "~1.8"
+    }
+}
